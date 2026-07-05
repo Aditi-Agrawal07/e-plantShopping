@@ -1,1 +1,1 @@
-Projec Name: e-plantShoppint
+Project Name: e-plantShopping
